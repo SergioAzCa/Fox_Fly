@@ -18,3 +18,9 @@ Y a continuación OPENCV
 Para inicializar el RPLidar utilizaremos la siguiente guia : 
 
 >https://medium.com/robotics-with-ros/installing-the-rplidar-lidar-sensor-on-the-raspberry-pi-32047cde9588
+
+Para instalar pcl :
+
+>sudo pip install --upgrade cython
+
+>sudo pip install python-pcl
