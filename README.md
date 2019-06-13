@@ -26,3 +26,4 @@ Para instalar pcl :
 >sudo pip install scikit-build
 
 >sudo pip install PyPCL
+>sudo  apt-get install openni-utils
