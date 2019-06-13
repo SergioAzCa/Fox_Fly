@@ -23,6 +23,6 @@ Para instalar pcl :
 
 >sudo pip install --upgrade cython
 
-> pip install scikit-build
+>sudo pip install scikit-build
 
-> pip install PyPCL
+>sudo pip install PyPCL
